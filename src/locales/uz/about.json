@@ -1,0 +1,90 @@
+{
+    "hero": {
+        "title": "Kelajakni",
+        "titleHighlight": "Bog'laymiz",
+        "subtitle": "Telecom Pro - O'zbekistondagi eng innovatsion telekommunikatsiya provayderi. Bizning maqsadimiz har bir xonadon va biznesni yuqori tezlikdagi raqamli dunyoga ulashdir."
+    },
+    "mission": {
+        "m1": {
+            "title": "Bizning Missiya",
+            "text": "Raqamli tengsizlikni yo'qotish va barchaga teng imkoniyatlar yaratish."
+        },
+        "m2": {
+            "title": "Mijozlarimiz",
+            "text": "2.4 milliondan ortiq aktiv foydalanuvchilar bizga ishonch bildirmoqda."
+        },
+        "m3": {
+            "title": "Xavfsizlik",
+            "text": "Ma'lumotlar maxfiyligi va tarmoq barqarorligi biz uchun birinchi darajali."
+        }
+    },
+    "history": {
+        "title": "Bizning Tariximiz",
+        "timeline": [
+            {
+                "year": "2018",
+                "title": "Kompaniya asos solindi",
+                "desc": "Toshkentda ilk fiber-optik tarmog'i ishga tushirildi."
+            },
+            {
+                "year": "2020",
+                "title": "5G pilot loyihasi",
+                "desc": "Markaziy Osiyoda birinchilardan bo'lib 5G tarmog'ini sinovdan o'tkazdik."
+            },
+            {
+                "year": "2022",
+                "title": "Global hamkorlik",
+                "desc": "Xalqaro magistral provayderlar bilan to'g'ridan-to'g'ri bog'landik."
+            },
+            {
+                "year": "2024",
+                "title": "Milliy qamrov",
+                "desc": "O'zbekistonning barcha viloyatlarida o'z xizmatlarimizni yo'lga qo'ydik."
+            }
+        ],
+        "isoTitle": "ISO 9001",
+        "isoDesc": "Sifat standarti"
+    },
+    "team": {
+        "title": "Bizning",
+        "titleHighlight": "Jamoa",
+        "subtitle": "Sohaning eng malakali mutaxassislari sizning xizmatingizda.",
+        "members": [
+            {
+                "name": "Azizov Alisher",
+                "role": "Bosh Direktor"
+            },
+            {
+                "name": "Karimova Malika",
+                "role": "Texnik Direktor"
+            },
+            {
+                "name": "Usmonov Rustam",
+                "role": "Mijozlar bilan ishlash"
+            },
+            {
+                "name": "Nazarova Gulnoza",
+                "role": "Dizayn rahbari"
+            }
+        ]
+    },
+    "ecosystem": {
+        "title": "Yagona Raqamli",
+        "titleHighlight": "Ekotizim",
+        "subtitle": "Biz shunchaki provayder emasmiz. Biz sizning hayotingizni yengillashtiruvchi barcha raqamli xizmatlarni bitta platformaga jamladik.",
+        "features": [
+            {
+                "title": "Tezkorlik",
+                "text": "Barchasi xizmatlar bir zumda ulanadi."
+            },
+            {
+                "title": "G'amxo'rlik",
+                "text": "24/7 mijozlarni qo'llab-quvvatlash tizimi."
+            },
+            {
+                "title": "Ishonchlilik",
+                "text": "9 yillik tajriba va millionlab mijozlar."
+            }
+        ]
+    }
+}

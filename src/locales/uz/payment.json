@@ -1,0 +1,23 @@
+{
+    "title": "Tezkor To'lov",
+    "subtitle": "Hisobingizni xavfsiz va tez to'ldiring",
+    "steps": {
+        "identity": "Mijozni aniqlash",
+        "method": "To'lov usuli",
+        "finish": "Yakunlash"
+    },
+    "form": {
+        "accountLabel": "ID raqami yoki Telefon",
+        "accountPlaceholder": "Masalan: 8841295",
+        "submit": "Davom etish",
+        "pay": "To'lovni amalga oshirish",
+        "amountLabel": "To'lov summasi",
+        "customerInfo": "Mijoz ma'lumotlari",
+        "currentBalance": "Amaldagi balans"
+    },
+    "success": {
+        "title": "Muvaffaqiyatli!",
+        "message": "To'lov muvaffaqiyatli amalga oshirildi. Hisobingizga {{amount}} so'm qo'shildi.",
+        "backToCabinet": "Kabinatga o'tish"
+    }
+}

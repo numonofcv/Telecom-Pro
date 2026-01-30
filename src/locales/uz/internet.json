@@ -1,0 +1,101 @@
+{
+    "hero": {
+        "badge": "Ultra Fiber",
+        "title": "Fiber",
+        "titleHighlight": "Optik",
+        "titleEnd": "Kelajak",
+        "subtitle": "GPON texnologiyasi bilan 1000 Mbps gacha tezlik. Cheksiz imkoniyatlar dunyosiga biz bilan kiring.",
+        "connectButton": "Hozir ulanish",
+        "coverageButton": "Qamrov xaritasi",
+        "speedValue": "1000",
+        "speedUnit": "MBPS"
+    },
+    "speedIntelligence": {
+        "title": "Speed Intelligence",
+        "value": "940",
+        "unit": "MB/S",
+        "desc": "Bizning tarmoqda tezlik har doim barqaror. Optik tolali texnologiya tufayli yo'qotishlarsiz yuqori tezlik.",
+        "testButton": "Testni boshlash"
+    },
+    "whyUs": {
+        "title": "Nega aynan Telecom Pro?",
+        "benefits": {
+            "symmetric": {
+                "title": "Smetrik Tezlik",
+                "desc": "Yuklash va yuborish tezligi bir xil."
+            },
+            "security": {
+                "title": "Xavfsizlik",
+                "desc": "DDoS hujumlardan bepul himoya."
+            },
+            "freeTv": {
+                "title": "Bepul TV",
+                "desc": "100+ telekanallar to'plami."
+            },
+            "experts": {
+                "title": "Ekspertlar",
+                "desc": "Har qanday vaziyatda yordam."
+            }
+        }
+    },
+    "gpon": {
+        "badge": "NEXT-GEN TECH",
+        "title": "GPON",
+        "titleHighlight": "Inqilobi",
+        "features": [
+            {
+                "title": "Gigabit Tezlik",
+                "desc": "1000 Mb/s gacha bo'lgan tezlikda fayllarni soniyalar ichida yuklang."
+            },
+            {
+                "title": "Minimal Ping",
+                "desc": "Onlayn o'yinlar va video aloqa uchun eng past kechikish vaqti."
+            },
+            {
+                "title": "Mustahkam Aloqa",
+                "desc": "Optik tolali kabel tashqi elektr ta'sirlardan to'liq himoyalangan."
+            }
+        ]
+    },
+    "coverage": {
+        "title": "Qamrov",
+        "titleHighlight": "Xaritasi",
+        "subtitle": "O'zbekiston bo'ylab eng keng va tezkor optik tolali tarmoq.",
+        "nationwide": "Butun Mamlakat Bo'ylab",
+        "checkTitle": "Sizning hududingizda internet bormi?",
+        "checkDesc": "Manzilingizni kiriting va ulanish imkoniyatini tekshiring.",
+        "placeholder": "Manzil...",
+        "checkButton": "Tekshirish"
+    },
+    "plans": {
+        "milliyFiber50": {
+            "name": "Milliy Fiber 50",
+            "category": "Uy Interneti",
+            "features": [
+                "Cheksiz tun",
+                "Wi-Fi 6 router tekin",
+                "24/7 qo'llab-quvvatlash"
+            ]
+        },
+        "gigaPro500": {
+            "name": "Giga Pro 500",
+            "category": "Uy Interneti",
+            "features": [
+                "Smetrik tezlik",
+                "Premium Router",
+                "Gamerlar uchun ping-free",
+                "Statik IP"
+            ]
+        },
+        "businessElite": {
+            "name": "Business Elite",
+            "category": "Biznes",
+            "features": [
+                "99.9% SLA",
+                "Shaxsiy menejer",
+                "Cloud Storage 1TB",
+                "DDoS himoya"
+            ]
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "hero": {
+        "badge": "Enterprise Solutions",
+        "title": "Digital",
+        "titleHighlight": "Hub",
+        "titleEnd": "For Your Business",
+        "subtitle": "Scalable networks, high security, and 99.9% SLA guarantee. With us, your business has no limits.",
+        "consultButton": "Consultation",
+        "solutionsButton": "Solutions"
+    },
+    "solutions": {
+        "title": "Business Solutions",
+        "corporate": {
+            "title": "Corporate Internet",
+            "desc": "Custom fiber-optic network and guaranteed speeds for your business."
+        },
+        "vpn": {
+            "title": "VPN & Networking",
+            "desc": "Solutions for connecting branches into a single secure network."
+        },
+        "security": {
+            "title": "Cybersecurity",
+            "desc": "Data protection, DDoS protection, and continuous monitoring."
+        },
+        "cloud": {
+            "title": "Cloud Services",
+            "desc": "Data storage, virtual servers, and enterprise storage systems."
+        }
+    },
+    "partners": {
+        "title": "Trusted By"
+    },
+    "security": {
+        "title": "Corporate",
+        "titleHighlight": "Security",
+        "ddos": {
+            "title": "DDoS Protection",
+            "desc": "Your servers are under constant protection."
+        },
+        "audit": {
+            "title": "Cybersecurity Audit",
+            "desc": "We identify and eliminate vulnerabilities in your systems."
+        },
+        "backup": {
+            "title": "Data Backup",
+            "desc": "All important documents are securely stored in cloud servers."
+        }
+    },
+    "cloud": {
+        "title": "Cloud",
+        "titleHighlight": "VDS/VPS",
+        "detailsButton": "Learn More",
+        "plans": {
+            "s": {
+                "name": "Pro Cloud S",
+                "price": "150,000 UZS",
+                "specs": "2 vCPU / 4GB RAM / 50GB SSD"
+            },
+            "m": {
+                "name": "Pro Cloud M",
+                "price": "300,000 UZS",
+                "specs": "4 vCPU / 8GB RAM / 100GB SSD"
+            },
+            "l": {
+                "name": "Pro Cloud L",
+                "price": "600,000 UZS",
+                "specs": "8 vCPU / 16GB RAM / 200GB SSD"
+            }
+        }
+    },
+    "contact": {
+        "title": "Let's Start Partnership",
+        "subtitle": "Leave your details, our specialist will contact you within 15 minutes.",
+        "companyName": "Company Name",
+        "phone": "Phone Number",
+        "message": "Message (Optional)",
+        "submitButton": "Submit Request"
+    }
+}

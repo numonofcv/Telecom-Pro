@@ -1,0 +1,64 @@
+{
+    "id": "ID",
+    "balance": "Balansim",
+    "currency": "so'm",
+    "tabs": {
+        "main": "Asosiy",
+        "rewards": "Mukofotlar",
+        "messages": "Xabarlar",
+        "payments": "To'lovlar",
+        "settings": "Sozlamalar"
+    },
+    "activeTariff": "Aktiv Tarif",
+    "internet": "Internet",
+    "expiry": "Muddati",
+    "unlimited": "Cheksiz 5G",
+    "stats": {
+        "title": "Foydalanish Statistikasi"
+    },
+    "recentActions": {
+        "title": "Oxirgi Amallar",
+        "paymentThrough": "orqali to'lov"
+    },
+    "notifications": {
+        "title": "Bildirishnomalar",
+        "welcome": {
+            "title": "Xush kelibsiz!",
+            "message": "Telecom Pro oilasiga xush kelibsiz."
+        },
+        "paymentSuccess": {
+            "title": "To'lov muvaffaqiyatli",
+            "message": "{{amount}} so'm hisobingizga tushdi.",
+            "received": "{{amount}} so'm muvaffaqiyatli qabul qilindi."
+        }
+    },
+    "services": {
+        "activeMobile": "Aktiv mobil tarif",
+        "homeInternet": "Uy interneti",
+        "extraProtection": "Qo'shimcha himoya",
+        "active": "Aktiv",
+        "paused": "To'xtatilgan"
+    },
+    "rewards": {
+        "internet10gb": "10GB Internet",
+        "tvSubscription": "Milliy TV Obuna",
+        "vipStatus": "VIP Status",
+        "noRewards": "Hozircha mukofotlar yo'q!"
+    },
+    "settings": {
+        "profile": "Profil Ma'lumotlari",
+        "security": "Xavfsizlik",
+        "notifications": "Bildirishnomalar",
+        "name": "Ism Familiya",
+        "email": "Elektron pochta",
+        "phone": "Telefon raqami",
+        "save": "Saqlash",
+        "changePassword": "Parolni o'zgartirish",
+        "newPassword": "Yangi parol",
+        "confirmPassword": "Parolni tasdiqlang",
+        "photoRequirements": "Maksimal 2MB, PNG/JPG",
+        "pushNotifications": "Push bildirishnomalar",
+        "emailMarketing": "Yangiliklarni olish",
+        "success": "Sozlamalar saqlandi!"
+    }
+}

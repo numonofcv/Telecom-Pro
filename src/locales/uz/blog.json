@@ -1,0 +1,35 @@
+{
+    "title": "Yangiliklar va Blog",
+    "subtitle": "Telecom Pro dunyosidagi so'nggi o'zgarishlar",
+    "readMore": "O'qish",
+    "close": "Yopish",
+    "share": "Ulashish",
+    "comments": "{{count}} Izohlar",
+    "by": "Admin tomonidan",
+    "posts": [
+        {
+            "id": 1,
+            "title": "O'zbekistonda 5G tarmog'ini kengaytirish",
+            "excerpt": "Telecom Pro kompaniyasi Toshkent va Samarqand shaharlarida 5G qamrovini 2 barobar oshirdi.",
+            "content": "Yaqinda Telecom Pro kompaniyasi o'zining strategik rejasini e'lon qildi. Ushbu rejaga ko'ra, 2024-yil oxiriga qadar mamlakatning barcha viloyat markazlari 5G tarmog'i bilan to'liq qamrab olinadi. Hozirda Toshkent va Samarqand shaharlarida qamrov doirasi sezilarli darajada kengaytirildi, bu esa foydalanuvchilarga barqaror 1Gbps gacha bo'lgan tezlikni taqdim etmoqda.",
+            "category": "Texnologiya",
+            "date": "12 May, 2024"
+        },
+        {
+            "id": 2,
+            "title": "Yangi 'Milliy Fiber' tariflari e'lon qilindi",
+            "excerpt": "Endilikda uy interneti tezligi 1Gbps gacha yetkazildi. Cheksiz tungi trafik bonus sifatida beriladi.",
+            "content": "Mijozlarimiz xohish-istaklaridan kelib chiqib, biz uy interneti tariflarini butunlay yangiladik. 'Milliy Fiber' seriyasidagi yangi tariflar nafaqat yuqori tezlikni, balki kechki soat 00:00 dan 08:00 gacha mutlaqo cheksiz internet trafigini taqdim etadi. Shuningdek, yangi ulanuvchilar uchun Wi-Fi 6 routeri bepul taqdim etiladi.",
+            "category": "Yangiliklar",
+            "date": "10 May, 2024"
+        },
+        {
+            "id": 3,
+            "title": "Kiberxavfsizlik: Ma'lumotlaringizni himoya qilish",
+            "excerpt": "Internetdan xavfsiz foydalanish bo'yicha Telecom Pro mutaxassislaridan 5 ta muhim maslahat.",
+            "content": "Raqamli dunyoda shaxsiy ma'lumotlar himoyasi eng muhim masalaga aylandi. Mutaxassislarimiz tavsiya qilgan 5 ta asosiy qoida: 1. Ikki bosqichli autentifikatsiyani yoqing. 2. Har bir servis uchun alohida murakkab parollardan foydalaning. 3. Shubhali linklarga kirmang. 4. Doimiy ravishda qurilma darsurlarini yangilab turing. 5. VPN servislaridan ehtiyotkorlik bilan foydalaning.",
+            "category": "Xavfsizlik",
+            "date": "05 May, 2024"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "hero": {
+        "title": "Building the Future",
+        "titleHighlight": "Together",
+        "subtitle": "Telecom Pro is more than just a company; it's an intellectual and innovative environment. Shape the digital future of Uzbekistan with us."
+    },
+    "benefits": {
+        "comfort": {
+            "title": "Comfort Zone",
+            "desc": "Modern office and free coffee/snacks."
+        },
+        "health": {
+            "title": "Health Insurance",
+            "desc": "Medical insurance for all employees."
+        },
+        "tech": {
+            "title": "Top Gear",
+            "desc": "Latest Apple/Dell equipment."
+        },
+        "growth": {
+            "title": "Growth",
+            "desc": "International conferences and continuous training courses."
+        }
+    },
+    "jobs": {
+        "title": "Open Vacancies",
+        "applyButton": "Apply",
+        "list": [
+            {
+                "id": 1,
+                "title": "Frontend Developer (React)",
+                "location": "Tashkent",
+                "type": "Full-time",
+                "salary": "15-25M UZS"
+            },
+            {
+                "id": 2,
+                "title": "Network Engineer",
+                "location": "Samarkand",
+                "type": "Full-time",
+                "salary": "12-18M UZS"
+            },
+            {
+                "id": 3,
+                "title": "Call-center Operator",
+                "location": "Remote",
+                "type": "Shift-based",
+                "salary": "4-7M UZS"
+            },
+            {
+                "id": 4,
+                "title": "DevOps Engineer",
+                "location": "Tashkent",
+                "type": "Full-time",
+                "salary": "20-35M UZS"
+            }
+        ]
+    },
+    "noMatch": {
+        "title": "Didn't find a matching job?",
+        "desc": "Send us your resume, and we'll contact you when a suitable project arises.",
+        "submitButton": "Send CV"
+    }
+}

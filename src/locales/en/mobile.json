@@ -1,0 +1,88 @@
+{
+    "hero": {
+        "badge": "Premium Mobile",
+        "title": "Future",
+        "titleHighlight": "In Your",
+        "titleEnd": "Hands",
+        "subtitle": "Fastest 5G networks and unlimited communication possibilities. Unparalleled coverage across Uzbekistan."
+    },
+    "benefits": {
+        "speed": {
+            "title": "5G Speed",
+            "desc": "Data transfer up to 1Gbps"
+        },
+        "coverage": {
+            "title": "Wide Coverage",
+            "desc": "98% territorial coverage"
+        },
+        "support": {
+            "title": "24/7 Support",
+            "desc": "Our experts are always ready"
+        }
+    },
+    "tariffs": {
+        "title": "Popular Tariffs"
+    },
+    "additionalServices": {
+        "title": "Additional Services",
+        "esim": {
+            "title": "eSIM Service",
+            "desc": "Connection without a plastic SIM card",
+            "price": "Free"
+        },
+        "roaming": {
+            "title": "Roaming",
+            "desc": "More than 140 countries",
+            "price": "Unlimited"
+        },
+        "beautifulNumber": {
+            "title": "Beautiful Number",
+            "desc": "Find the number that suits you",
+            "price": "Choose"
+        },
+        "simRecovery": {
+            "title": "SIM Card Recovery",
+            "desc": "Reopen lost cards",
+            "price": "20,000 UZS"
+        }
+    },
+    "entertainment": {
+        "title": "Entertainment World",
+        "subtitle": "Combine your favorites with one subscription. Ad-free and high quality.",
+        "music": {
+            "title": "Telecom Music",
+            "desc": "Millions of tracks without ads",
+            "price": "15,000 UZS/mo"
+        },
+        "gaming": {
+            "title": "Pro Gaming",
+            "desc": "Unlimited games and bonuses",
+            "price": "25,000 UZS/mo"
+        },
+        "radio": {
+            "title": "Online Radio",
+            "desc": "1000+ stations worldwide",
+            "price": "Free"
+        },
+        "activateButton": "Activate"
+    },
+    "plans": {
+        "yengil40": {
+            "name": "Yengil 40",
+            "category": "Mobile Connection",
+            "features": [
+                "5GB bonus for YouTube",
+                "Monthly payment"
+            ]
+        },
+        "statusPlatinum": {
+            "name": "Status Platinum",
+            "category": "Mobile Connection",
+            "features": [
+                "Global Roaming 500MB",
+                "5 eSIMs free",
+                "VIP service"
+            ]
+        }
+    }
+}

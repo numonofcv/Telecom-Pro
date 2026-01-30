@@ -1,0 +1,22 @@
+{
+    "title": "Network Intelligence",
+    "subtitle": "Fastest and most reliable connection to the global network",
+    "networkIntelligence": "Network Intelligence",
+    "mbps": "Mbps",
+    "go": "GO",
+    "metrics": {
+        "ping": "Ping",
+        "jitter": "Jitter",
+        "download": "Download",
+        "upload": "Upload",
+        "result": "Result"
+    },
+    "result": {
+        "title": "Great Result!",
+        "desc": "Your connection is perfect for high-quality video and gaming.",
+        "noRewards": "No rewards available yet",
+        "smartEcosystem": "Smart Ecosystem"
+    },
+    "retest": "Retest",
+    "server": "Server: Tashkent, UZ • "
+}

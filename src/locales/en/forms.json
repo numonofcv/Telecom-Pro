@@ -1,0 +1,83 @@
+{
+    "fiber": {
+        "title": "Fiber Connection",
+        "selectedTariff": "SELECTED TARIFF:",
+        "speed": "Speed",
+        "pricePerMonth": "UZS/month",
+        "steps": {
+            "contact": "Contact Information",
+            "address": "Address & Time",
+            "success": "Application Received!"
+        },
+        "fields": {
+            "name": "Full Name",
+            "phone": "Phone Number",
+            "buildingType": {
+                "label": "Building Type",
+                "apartment": "Apartment",
+                "house": "Private House"
+            },
+            "address": "Full Address",
+            "date": "Installation Date"
+        },
+        "buttons": {
+            "next": "Next Step",
+            "back": "Back",
+            "submit": "Submit Application"
+        },
+        "messages": {
+            "success": "Our specialist will contact you shortly.",
+            "info": "You can track your application status in the personal cabinet."
+        }
+    },
+    "sim": {
+        "title": "SIM Card Delivery",
+        "subtitle": "Fill in all information",
+        "steps": {
+            "entry": "Information",
+            "review": "Review",
+            "success": "Order Received!"
+        },
+        "fields": {
+            "fullName": "Full Name",
+            "phone": "Phone",
+            "passport": "Passport (AA1234567)",
+            "address": "Delivery Address"
+        },
+        "review": {
+            "title": "ORDER DETAILS",
+            "tariff": "Tariff:",
+            "customer": "Customer:",
+            "phone": "Phone:",
+            "passport": "Passport:"
+        },
+        "success": {
+            "title": "Order Received!",
+            "message": "Our specialists will contact you shortly.",
+            "orderId": "ORDER ID",
+            "operatorTitle": "Operator Call",
+            "operatorDesc": "Within 15 minutes",
+            "deliveryTitle": "Courier Delivery",
+            "deliveryDesc": "Within 24 hours"
+        },
+        "buttons": {
+            "continue": "Continue",
+            "edit": "Edit",
+            "confirm": "Confirm"
+        }
+    },
+    "speedtest": {
+        "title": "Speed Check",
+        "begin": "Begin Speed Test",
+        "analyzing": "Analyzing...",
+        "poweredBy": "Powered by TelecomPro Core v4.2"
+    },
+    "errors": {
+        "auth": {
+            "invalid": "Incorrect phone number or password",
+            "exists": "This number is already registered",
+            "invalidPhone": "Invalid phone number",
+            "wrongPassword": "Current password is incorrect"
+        }
+    }
+}

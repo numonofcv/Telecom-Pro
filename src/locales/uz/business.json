@@ -1,0 +1,79 @@
+{
+    "hero": {
+        "badge": "Enterprise Solutions",
+        "title": "Biznesingiz Uchun",
+        "titleHighlight": "Digital",
+        "titleEnd": "Xab",
+        "subtitle": "Masshtablanuvchi tarmoqlar, yuqori xavfsizlik va 99.9% SLA kafolati. Biz bilan biznesingiz chegarasiz.",
+        "consultButton": "Konsultatsiya",
+        "solutionsButton": "Yechimlar"
+    },
+    "solutions": {
+        "title": "Biznes Yechimlar",
+        "corporate": {
+            "title": "Korporativ Internet",
+            "desc": "Sizning biznesingiz uchun maxsus optik tolali tarmoq va kafolatlangan tezlik."
+        },
+        "vpn": {
+            "title": "VPN & Tarmoqlar",
+            "desc": "Filiallarni yagona va xavfsiz tarmoqqa birlashtirish yechimlari."
+        },
+        "security": {
+            "title": "Kiberxavfsizlik",
+            "desc": "Ma'lumotlar himoyasi, DDoS-dan himoya va doimiy monitoring."
+        },
+        "cloud": {
+            "title": "Cloud Xizmatlari",
+            "desc": "Ma'lumotlarni saqlash, virtual serverlar va korporativ saqlash tizimlari."
+        }
+    },
+    "partners": {
+        "title": "Bizga ishonch bildirganlar"
+    },
+    "security": {
+        "title": "Korporativ",
+        "titleHighlight": "Xavfsizlik",
+        "ddos": {
+            "title": "DDoS Himoya",
+            "desc": "Sizning serverlaringiz doimiy himoya ostida."
+        },
+        "audit": {
+            "title": "Kiber-Xavfsizlik Auditi",
+            "desc": "Tizimlaringizdagi zaifliklarni aniqlaymiz va bartaraf etamiz."
+        },
+        "backup": {
+            "title": "Ma'lumotlarni Rezervlash",
+            "desc": "Barcha muhim hujjatlar bulutli serverlarda xavfsiz saqlanadi."
+        }
+    },
+    "cloud": {
+        "title": "Cloud",
+        "titleHighlight": "VDS/VPS",
+        "detailsButton": "Batafsil ma'lumot",
+        "plans": {
+            "s": {
+                "name": "Pro Cloud S",
+                "price": "150 000 so'm",
+                "specs": "2 vCPU / 4GB RAM / 50GB SSD"
+            },
+            "m": {
+                "name": "Pro Cloud M",
+                "price": "300 000 so'm",
+                "specs": "4 vCPU / 8GB RAM / 100GB SSD"
+            },
+            "l": {
+                "name": "Pro Cloud L",
+                "price": "600 000 so'm",
+                "specs": "8 vCPU / 16GB RAM / 200GB SSD"
+            }
+        }
+    },
+    "contact": {
+        "title": "Hamkorlikni Boshlaymiz",
+        "subtitle": "Ma'lumotlaringizni qoldiring, mutaxassisimiz 15 daqiqa ichida siz bilan bog'lanadi.",
+        "companyName": "Kompaniya nomi",
+        "phone": "Telefon raqami",
+        "message": "Xabar (ixtiyoriy)",
+        "submitButton": "So'rov yuborish"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "hero": {
+        "badge": "Premium Mobile",
+        "title": "Kelajak",
+        "titleHighlight": "Sizning",
+        "titleEnd": "Qo'lingizda",
+        "subtitle": "Eng tezkor 5G tarmoqlari va cheksiz muloqot imkoniyatlari. O'zbekiston bo'ylab mislsiz qamrov."
+    },
+    "benefits": {
+        "speed": {
+            "title": "5G Tezligi",
+            "desc": "1Gbps gacha ma'lumot uzatish"
+        },
+        "coverage": {
+            "title": "Keng Qamrov",
+            "desc": "98% hududiy qamrov"
+        },
+        "support": {
+            "title": "24/7 Yordam",
+            "desc": "Mutaxassislarimiz doim tayyor"
+        }
+    },
+    "tariffs": {
+        "title": "Mashhur Tariflar"
+    },
+    "additionalServices": {
+        "title": "Qo'shimcha Xizmatlar",
+        "esim": {
+            "title": "eSIM xizmati",
+            "desc": "Plastik sim-kartasiz aloqa",
+            "price": "Bepul"
+        },
+        "roaming": {
+            "title": "Rouming",
+            "desc": "140 dan ortiq davlatlar",
+            "price": "Cheksiz"
+        },
+        "beautifulNumber": {
+            "title": "Chiroyli raqam",
+            "desc": "O'zingizga mos raqamni toping",
+            "price": "Tanlash"
+        },
+        "simRecovery": {
+            "title": "Sim-kartani tiklash",
+            "desc": "Yo'qolgan kartalarni qayta ochish",
+            "price": "20 000 so'm"
+        }
+    },
+    "entertainment": {
+        "title": "Ko'ngilochar Dunyo",
+        "subtitle": "Sevimlilaringizni bitta obuna bilan birlashtiring. Reklamasiz va yuqori sifatda.",
+        "music": {
+            "title": "Telecom Music",
+            "desc": "Millionlab taronalar reklamasiz",
+            "price": "15 000 so'm/oy"
+        },
+        "gaming": {
+            "title": "Pro Gaming",
+            "desc": "Cheksiz o'yinlar va bonuslar",
+            "price": "25 000 so'm/oy"
+        },
+        "radio": {
+            "title": "Online Radio",
+            "desc": "Dunyo bo'ylab 1000+ stansiya",
+            "price": "Bepul"
+        },
+        "activateButton": "Faollashtirish"
+    },
+    "plans": {
+        "yengil40": {
+            "name": "Yengil 40",
+            "category": "Mobil Aloqa",
+            "features": [
+                "YouTube uchun 5GB bonus",
+                "Oylik to'lov"
+            ]
+        },
+        "statusPlatinum": {
+            "name": "Status Platinum",
+            "category": "Mobil Aloqa",
+            "features": [
+                "Global Rouming 500MB",
+                "5 ta eSIM bepul",
+                "VIP xizmat ko'rsatish"
+            ]
+        }
+    }
+}

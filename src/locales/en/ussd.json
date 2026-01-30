@@ -1,0 +1,17 @@
+{
+    "title": "USSD Directory",
+    "subtitle": "All necessary codes for service management in one place.",
+    "categories": {
+        "main": "Main",
+        "internet": "Internet",
+        "services": "Services"
+    },
+    "codes": {
+        "checkBalance": "Check main balance",
+        "checkInternet": "Check internet package remains",
+        "checkBundles": "Minutes and SMS remains",
+        "myNumber": "My number and tariff",
+        "enable4G": "Enable 4G LTE service",
+        "serviceMenu": "Service management menu"
+    }
+}

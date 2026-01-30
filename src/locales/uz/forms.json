@@ -1,0 +1,83 @@
+{
+    "fiber": {
+        "title": "Fiber Ulanish",
+        "selectedTariff": "TANLANGAN TARIF:",
+        "speed": "Tezlik",
+        "pricePerMonth": "so'm/oy",
+        "steps": {
+            "contact": "Aloqa ma'lumotlari",
+            "address": "Manzil va vaqt",
+            "success": "Ariza qabul qilindi!"
+        },
+        "fields": {
+            "name": "Ismingiz va familiyangiz",
+            "phone": "Telefon raqamingiz",
+            "buildingType": {
+                "label": "Bino turi",
+                "apartment": "Ko'p qavatli",
+                "house": "Hovli uy"
+            },
+            "address": "To'liq manzil",
+            "date": "Ulanish vaqti"
+        },
+        "buttons": {
+            "next": "Keyingi qadam",
+            "back": "Orqaga",
+            "submit": "Arizani yuborish"
+        },
+        "messages": {
+            "success": "Tez orada mutaxassisimiz siz bilan bog'lanadi.",
+            "info": "Ariza holatini shaxsiy kabinetda kuzatib borishingiz mumkin."
+        }
+    },
+    "sim": {
+        "title": "SIM-karta yetkazish",
+        "subtitle": "Barcha ma'lumotlarni to'ldiring",
+        "steps": {
+            "entry": "Ma'lumotlar",
+            "review": "Tekshirish",
+            "success": "Buyurtma qabul qilindi!"
+        },
+        "fields": {
+            "fullName": "To'liq F.I.SH",
+            "phone": "Telefon",
+            "passport": "Passport (AA1234567)",
+            "address": "Yetkazib berish manzili"
+        },
+        "review": {
+            "title": "BUYURTMA TAFSILOTLARI",
+            "tariff": "Tarif:",
+            "customer": "Mijoz:",
+            "phone": "Telefon:",
+            "passport": "Passport:"
+        },
+        "success": {
+            "title": "Buyurtma qabul qilindi!",
+            "message": "Mutaxassislarimiz tez orada bog'lanishadi.",
+            "orderId": "BUYURTMA ID",
+            "operatorTitle": "Operator qo'ng'irog'i",
+            "operatorDesc": "15 daqiqa ichida",
+            "deliveryTitle": "Kuryer yetkazishi",
+            "deliveryDesc": "24 soat ichida"
+        },
+        "buttons": {
+            "continue": "Davom etish",
+            "edit": "Tahrirlash",
+            "confirm": "Tasdiqlash"
+        }
+    },
+    "speedtest": {
+        "title": "Tezlikni tekshirish",
+        "begin": "Tekshirishni boshlash",
+        "analyzing": "Tahlil qilinmoqda...",
+        "poweredBy": "TelecomPro Core v4.2 tomonidan quvvatlanadi"
+    },
+    "errors": {
+        "auth": {
+            "invalid": "Telefon raqam yoki parol noto'g'ri",
+            "exists": "Bu raqam allaqachon ro'yxatdan o'tgan",
+            "invalidPhone": "Telefon raqam noto'g'ri",
+            "wrongPassword": "Joriy parol noto'g'ri"
+        }
+    }
+}

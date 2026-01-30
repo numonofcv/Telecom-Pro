@@ -1,0 +1,101 @@
+{
+    "hero": {
+        "badge": "Ultra Fiber",
+        "title": "Fiber",
+        "titleHighlight": "Optic",
+        "titleEnd": "Future",
+        "subtitle": "Speed up to 1000 Mbps with GPON technology. Step into a world of limitless possibilities with us.",
+        "connectButton": "Connect Now",
+        "coverageButton": "Coverage Map",
+        "speedValue": "1000",
+        "speedUnit": "MBPS"
+    },
+    "speedIntelligence": {
+        "title": "Speed Intelligence",
+        "value": "940",
+        "unit": "MB/S",
+        "desc": "Speed is always stable in our network. High speed without losses thanks to fiber optic technology.",
+        "testButton": "Start Test"
+    },
+    "whyUs": {
+        "title": "Why Telecom Pro?",
+        "benefits": {
+            "symmetric": {
+                "title": "Symmetric Speed",
+                "desc": "Download and upload speeds are the same."
+            },
+            "security": {
+                "title": "Security",
+                "desc": "Free protection from DDoS attacks."
+            },
+            "freeTv": {
+                "title": "Free TV",
+                "desc": "A set of 100+ TV channels."
+            },
+            "experts": {
+                "title": "Experts",
+                "desc": "Help in any situation."
+            }
+        }
+    },
+    "gpon": {
+        "badge": "NEXT-GEN TECH",
+        "title": "GPON",
+        "titleHighlight": "Revolution",
+        "features": [
+            {
+                "title": "Gigabit Speed",
+                "desc": "Upload files in seconds with speeds up to 1000 Mb/s."
+            },
+            {
+                "title": "Minimal Ping",
+                "desc": "Lowest latency for online gaming and video calls."
+            },
+            {
+                "title": "Sturdy Connection",
+                "desc": "Fiber optic cable is fully protected from external electrical influences."
+            }
+        ]
+    },
+    "coverage": {
+        "title": "Coverage",
+        "titleHighlight": "Map",
+        "subtitle": "The widest and fastest fiber optic network across Uzbekistan.",
+        "nationwide": "Nationwide",
+        "checkTitle": "Is internet available in your area?",
+        "checkDesc": "Enter your address and check connection possibility.",
+        "placeholder": "Address...",
+        "checkButton": "Check"
+    },
+    "plans": {
+        "milliyFiber50": {
+            "name": "Milliy Fiber 50",
+            "category": "Home Internet",
+            "features": [
+                "Unlimited night",
+                "Free Wi-Fi 6 router",
+                "24/7 support"
+            ]
+        },
+        "gigaPro500": {
+            "name": "Giga Pro 500",
+            "category": "Home Internet",
+            "features": [
+                "Symmetric speed",
+                "Premium Router",
+                "Ping-free for gamers",
+                "Static IP"
+            ]
+        },
+        "businessElite": {
+            "name": "Business Elite",
+            "category": "Business",
+            "features": [
+                "99.9% SLA",
+                "Personal manager",
+                "1TB Cloud Storage",
+                "DDoS protection"
+            ]
+        }
+    }
+}

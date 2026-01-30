@@ -1,0 +1,29 @@
+{
+    "title": "Admin Panel",
+    "stats": {
+        "totalUsers": "Total Customers",
+        "monthlyRevenue": "Monthly Revenue",
+        "activePlans": "Active Tariffs",
+        "openTickets": "Open Tickets"
+    },
+    "menu": {
+        "dashboard": "Dashboard",
+        "customers": "Customers",
+        "plans": "Tariffs",
+        "payments": "Payments",
+        "tickets": "Tickets",
+        "settings": "Settings"
+    },
+    "sections": {
+        "revenueAnalytics": "Revenue Analytics",
+        "networkLoad": "Network Load",
+        "liveTransactions": "Live Transactions",
+        "serverStatus": "Server Status"
+    },
+    "table": {
+        "customer": "Customer",
+        "type": "Type",
+        "amount": "Amount",
+        "time": "Time"
+    }
+}

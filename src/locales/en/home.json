@@ -1,0 +1,117 @@
+{
+    "hero": {
+        "badge": "Next-Gen Connectivity",
+        "title": "Limitless",
+        "titleHighlight": "Digital",
+        "titleEnd": "Era",
+        "subtitle": "The most innovative network in Uzbekistan. A harmony of national values and global technologies.",
+        "startButton": "Get Started",
+        "servicesButton": "Services"
+    },
+    "features": {
+        "fast": {
+            "title": "Fast",
+            "desc": "Up to 500Mbps speed"
+        },
+        "convenient": {
+            "title": "Convenient",
+            "desc": "Plans that fit you"
+        },
+        "secure": {
+            "title": "Secure",
+            "desc": "99% reliability"
+        },
+        "support": {
+            "title": "24/7",
+            "desc": "Constant support"
+        }
+    },
+    "liveStatus": {
+        "title": "Live Network Status",
+        "latency": "Latency",
+        "uptime": "Uptime",
+        "throughput": "Throughput"
+    },
+    "partners": {
+        "title": "Our Partners"
+    },
+    "stats": {
+        "users": "Active Subscribers",
+        "coverage": "Coverage Area",
+        "reliability": "Reliability",
+        "support": "Expert Support"
+    },
+    "internet": {
+        "badge": "Connectivity Solutions",
+        "title": "Fiber Optic Internet",
+        "viewAll": "All plans"
+    },
+    "combo": {
+        "badge": "Maximum Value",
+        "title": "Combo - Everything in",
+        "titleHighlight": "One Price",
+        "lite": {
+            "title": "Lite Combo",
+            "service1": "100 Mbps Internet",
+            "service2": "120 TV Channels",
+            "service3": "10GB Mobile Data"
+        },
+        "ultra": {
+            "title": "Ultra Combo",
+            "service1": "500 Mbps Internet",
+            "service2": "200 TV Channels",
+            "service3": "Unlimited Mobile"
+        },
+        "family": {
+            "title": "Family Combo",
+            "service1": "1000 Mbps Internet",
+            "service2": "Premium TV",
+            "service3": "3 SIM Cards"
+        },
+        "connectButton": "Connect Now",
+        "perMonth": "UZS/mo"
+    },
+    "loyalty": {
+        "title": "Loyalty",
+        "titleHighlight": "Rewards",
+        "subtitle": "Earn cashback from every payment and spend it on new services or at our partner stores.",
+        "cashback": "Cashback",
+        "proPoints": {
+            "title": "Pro Points",
+            "desc": "Collect points."
+        },
+        "vipStatus": {
+            "title": "VIP Status",
+            "desc": "Exclusive plans."
+        }
+    },
+    "mobileApp": {
+        "badge": "PRO ECOSYSTEM",
+        "title": "Smart",
+        "titleHighlight": "Management",
+        "subtitle": "Check your balance, change plans, and manage services easier than ever. All Telecom Pro services in one app.",
+        "googlePlay": "Google Play",
+        "appStore": "App Store",
+        "greeting": "Hi, Eagle!",
+        "balance": "My Balance"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": {
+            "question": "How can I connect?",
+            "answer": "You can visit our office or submit an application through the website. Our operators will contact you."
+        },
+        "q2": {
+            "question": "What is the internet speed?",
+            "answer": "Our plans offer high-speed internet up to 1000 Mbps."
+        },
+        "q3": {
+            "question": "When does technical support work?",
+            "answer": "Our call center and technical staff provide service 24 hours a day."
+        },
+        "q4": {
+            "question": "What are the payment methods?",
+            "answer": "You can pay through Click, Payme, Uzum Bank apps and all bank branches."
+        }
+    }
+}

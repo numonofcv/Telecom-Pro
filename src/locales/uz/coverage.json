@@ -1,0 +1,43 @@
+{
+    "title": "Qamrov Hududini Tekshiring",
+    "subtitle": "Manzilingizda aloqa sifatini tekshirib ko'ring",
+    "search": {
+        "title": "Manzilni qidirish",
+        "locateButton": "Joylashuvimni aniqlash",
+        "locating": "Aniqlanmoqda...",
+        "or": "Yoki",
+        "placeholder": "Masalan: Toshkent, Chilonzor",
+        "checkButton": "Tekshirish",
+        "checking": "Tekshirilmoqda..."
+    },
+    "result": {
+        "success": {
+            "title": "Mavjud!",
+            "desc": "Sizda 1Gbps Fiber ulash imkoni bor."
+        },
+        "warning": {
+            "title": "Hozircha yo'q.",
+            "desc": "Tez orada sizning manzilingizga ham boramiz."
+        }
+    },
+    "legend": {
+        "title": "Xarita Belgilari",
+        "fiber": "Fiber Optik",
+        "fiveG": "5G Ultra",
+        "ready": "Tayyor",
+        "active": "Aktiv"
+    },
+    "map": {
+        "title": "Interaktiv Xarita v2.0",
+        "liveUpdate": "Jonli Yangilanish"
+    },
+    "alerts": {
+        "geoNotSupported": "Geolocation qo'llab-quvvatlanmaydi.",
+        "geoFailed": "Joylashuvingizni aniqlab bo'lmadi.",
+        "youAreHere": "Siz shu yerdasiz"
+    },
+    "popups": {
+        "fiber": "Gigabit Fiber: Faol",
+        "fiveG": "5G Ultra: Faol"
+    }
+}

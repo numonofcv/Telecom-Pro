@@ -1,0 +1,90 @@
+{
+    "hero": {
+        "title": "Connecting the",
+        "titleHighlight": "Future",
+        "subtitle": "Telecom Pro is the most innovative telecommunications provider in Uzbekistan. Our goal is to connect every household and business to the high-speed digital world."
+    },
+    "mission": {
+        "m1": {
+            "title": "Our Mission",
+            "text": "Eliminate digital inequality and create equal opportunities for everyone."
+        },
+        "m2": {
+            "title": "Our Clients",
+            "text": "More than 2.4 million active users place their trust in us."
+        },
+        "m3": {
+            "title": "Security",
+            "text": "Data privacy and network stability are our primary priorities."
+        }
+    },
+    "history": {
+        "title": "Our History",
+        "timeline": [
+            {
+                "year": "2018",
+                "title": "Company founded",
+                "desc": "The first fiber-optic network was launched in Tashkent."
+            },
+            {
+                "year": "2020",
+                "title": "5G pilot project",
+                "desc": "One of the first in Central Asia to test the 5G network."
+            },
+            {
+                "year": "2022",
+                "title": "Global partnership",
+                "desc": "Directly connected with international backbone providers."
+            },
+            {
+                "year": "2024",
+                "title": "National coverage",
+                "desc": "Launched our services in all regions of Uzbekistan."
+            }
+        ],
+        "isoTitle": "ISO 9001",
+        "isoDesc": "Quality standard"
+    },
+    "team": {
+        "title": "Our",
+        "titleHighlight": "Team",
+        "subtitle": "The most qualified specialists in the industry are at your service.",
+        "members": [
+            {
+                "name": "Azizov Alisher",
+                "role": "CEO"
+            },
+            {
+                "name": "Karimova Malika",
+                "role": "CTO"
+            },
+            {
+                "name": "Usmonov Rustam",
+                "role": "Customer Relations"
+            },
+            {
+                "name": "Nazarova Gulnoza",
+                "role": "Head of Design"
+            }
+        ]
+    },
+    "ecosystem": {
+        "title": "Universal Digital",
+        "titleHighlight": "Ecosystem",
+        "subtitle": "We are not just a provider. We have combined all the digital services that make your life easier into one platform.",
+        "features": [
+            {
+                "title": "Speed",
+                "text": "All services are connected instantly."
+            },
+            {
+                "title": "Care",
+                "text": "24/7 customer support system."
+            },
+            {
+                "title": "Reliability",
+                "text": "9 years of experience and millions of clients."
+            }
+        ]
+    }
+}

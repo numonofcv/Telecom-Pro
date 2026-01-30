@@ -1,0 +1,90 @@
+{
+    "navbar": {
+        "home": "Bosh sahifa",
+        "internet": "Internet",
+        "mobile": "Mobil",
+        "tv": "TV",
+        "business": "Biznes",
+        "about": "Biz haqimizda",
+        "blog": "Blog",
+        "careers": "Karyera",
+        "login": "Kirish",
+        "profile": "Profil",
+        "logout": "Chiqish",
+        "language": "Til",
+        "payment": "To'lov"
+    },
+    "footer": {
+        "services": "Xizmatlar",
+        "internet": "Internet",
+        "mobile": "Mobil aloqa",
+        "tv": "Televideniye",
+        "business": "Biznes yechimlari",
+        "company": "Kompaniya",
+        "about": "Biz haqimizda",
+        "careers": "Karyera",
+        "news": "Yangiliklar",
+        "contact": "Aloqa",
+        "support": "Yordam",
+        "faq": "Savol-javoblar",
+        "coverage": "Qamrov xaritasi",
+        "stores": "Do'konlar",
+        "payment": "To'lov",
+        "legal": "Huquqiy ma'lumotlar",
+        "terms": "Foydalanish shartlari",
+        "privacy": "Maxfiylik",
+        "copyright": "© 2026 Telecom Pro. Barcha huquqlar himoyalangan.",
+        "followUs": "Yangiliklardan xabardor bo'lish uchun obuna bo'ling:",
+        "desc": "O'zbekistondagi eng innovatsion raqamli hamkoringiz. Biz bilan kelajakni bugun yarating.",
+        "newsletter": "Yangiliklar",
+        "emailPlaceholder": "Email manzilingiz"
+    },
+    "buttons": {
+        "learnMore": "Batafsil",
+        "getStarted": "Boshlash",
+        "connect": "Ulanish",
+        "order": "Buyurtma berish",
+        "submit": "Yuborish",
+        "cancel": "Bekor qilish",
+        "save": "Saqlash",
+        "close": "Yopish",
+        "next": "Keyingi",
+        "previous": "Oldingi",
+        "viewAll": "Barchasini ko'rish"
+    },
+    "common": {
+        "perMonth": "so'm/oy",
+        "perYear": "so'm/yil",
+        "free": "Bepul",
+        "unlimited": "Cheksiz",
+        "popular": "Mashhur",
+        "new": "Yangi",
+        "recommended": "Tavsiya etiladi"
+    },
+    "days": {
+        "mon": "Dush",
+        "tue": "Sesh",
+        "wed": "Chor",
+        "thu": "Pay",
+        "fri": "Jum",
+        "sat": "Shan",
+        "sun": "Yak"
+    },
+    "tariffCard": {
+        "topOption": "ENG YAXSHI TANLOV",
+        "perfectSolution": "Siz uchun mukammal yechim",
+        "currency": "SO'M / OY",
+        "speed": "Tezlik",
+        "data": "Internet",
+        "calls": "Daqiqalar",
+        "connect": "Ulanish"
+    },
+    "currency": "so'm",
+    "time": {
+        "justNow": "Hozirgina",
+        "ago": "{{count}} daqiqa oldin"
+    },
+    "errors": {
+        "fillAll": "Iltimos, barcha maydonlarni to'ldiring"
+    }
+}

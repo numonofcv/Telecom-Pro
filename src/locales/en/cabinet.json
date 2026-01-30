@@ -1,0 +1,64 @@
+{
+    "id": "ID",
+    "balance": "My Balance",
+    "currency": "UZS",
+    "tabs": {
+        "main": "Dashboard",
+        "rewards": "Rewards",
+        "messages": "Messages",
+        "payments": "Payments",
+        "settings": "Settings"
+    },
+    "activeTariff": "Active Tariff",
+    "internet": "Internet",
+    "expiry": "Expiry Date",
+    "unlimited": "Unlimited 5G",
+    "stats": {
+        "title": "Usage Statistics"
+    },
+    "recentActions": {
+        "title": "Recent Activities",
+        "paymentThrough": "payment via"
+    },
+    "notifications": {
+        "title": "Notifications",
+        "welcome": {
+            "title": "Welcome!",
+            "message": "Welcome to the Telecom Pro family."
+        },
+        "paymentSuccess": {
+            "title": "Payment Successful",
+            "message": "{{amount}} UZS credited to your account.",
+            "received": "{{amount}} UZS successfully received."
+        }
+    },
+    "services": {
+        "activeMobile": "Active mobile plan",
+        "homeInternet": "Home internet",
+        "extraProtection": "Extra protection",
+        "active": "Active",
+        "paused": "Paused"
+    },
+    "rewards": {
+        "internet10gb": "10GB Internet",
+        "tvSubscription": "Milliy TV Subscription",
+        "vipStatus": "VIP Status",
+        "noRewards": "No rewards available yet!"
+    },
+    "settings": {
+        "profile": "Profile Information",
+        "security": "Security",
+        "notifications": "Notifications",
+        "name": "Full Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "save": "Save Changes",
+        "changePassword": "Change Password",
+        "newPassword": "New Password",
+        "confirmPassword": "Confirm Password",
+        "photoRequirements": "Max 2MB, PNG/JPG",
+        "pushNotifications": "Push Notifications",
+        "emailMarketing": "Receive Marketing Emails",
+        "success": "Settings saved successfully!"
+    }
+}

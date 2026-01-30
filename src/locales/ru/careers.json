@@ -1,0 +1,64 @@
+{
+    "hero": {
+        "title": "Строим Будущее",
+        "titleHighlight": "Вместе",
+        "subtitle": "Telecom Pro — это не просто компания, это интеллектуальная и инновационная среда. Создавайте цифровое будущее Узбекистана вместе с нами."
+    },
+    "benefits": {
+        "comfort": {
+            "title": "Comfort Zone",
+            "desc": "Современный офис и бесплатный кофе/закуски."
+        },
+        "health": {
+            "title": "Health Insurance",
+            "desc": "Медицинская страховка для всех сотрудников."
+        },
+        "tech": {
+            "title": "Top Gear",
+            "desc": "Новейшая техника Apple/Dell."
+        },
+        "growth": {
+            "title": "Growth",
+            "desc": "Международные конференции и постоянные курсы повышения квалификации."
+        }
+    },
+    "jobs": {
+        "title": "Вакансии",
+        "applyButton": "Подать заявку",
+        "list": [
+            {
+                "id": 1,
+                "title": "Frontend Developer (React)",
+                "location": "Ташкент",
+                "type": "Full-time",
+                "salary": "15-25M UZS"
+            },
+            {
+                "id": 2,
+                "title": "Network Engineer",
+                "location": "Самарканд",
+                "type": "Full-time",
+                "salary": "12-18M UZS"
+            },
+            {
+                "id": 3,
+                "title": "Call-center Operator",
+                "location": "Удаленно",
+                "type": "Shift-based",
+                "salary": "4-7M UZS"
+            },
+            {
+                "id": 4,
+                "title": "DevOps Engineer",
+                "location": "Ташкент",
+                "type": "Full-time",
+                "salary": "20-35M UZS"
+            }
+        ]
+    },
+    "noMatch": {
+        "title": "Не нашли подходящую работу?",
+        "desc": "Отправьте нам свое резюме, и мы свяжемся с вами, когда появится подходящий проект.",
+        "submitButton": "Отправить CV"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "navbar": {
+        "home": "Home",
+        "internet": "Internet",
+        "mobile": "Mobile",
+        "tv": "TV",
+        "business": "Business",
+        "about": "About Us",
+        "blog": "Blog",
+        "careers": "Careers",
+        "login": "Login",
+        "profile": "Profile",
+        "logout": "Logout",
+        "language": "Language",
+        "payment": "Payment"
+    },
+    "footer": {
+        "services": "Services",
+        "internet": "Internet",
+        "mobile": "Mobile",
+        "tv": "Television",
+        "business": "Business Solutions",
+        "company": "Company",
+        "about": "About Us",
+        "careers": "Careers",
+        "news": "News",
+        "contact": "Contact",
+        "support": "Support",
+        "faq": "FAQ",
+        "coverage": "Coverage Map",
+        "stores": "Stores",
+        "privacy": "Privacy",
+        "terms": "Terms of Use",
+        "legal": "Legal Information",
+        "copyright": "© 2026 Telecom Pro. All rights reserved.",
+        "followUs": "Subscribe to our newsletters:",
+        "desc": "Your most innovative digital partner in Uzbekistan. Create the future today with us.",
+        "newsletter": "Newsletter",
+        "emailPlaceholder": "Your email"
+    },
+    "buttons": {
+        "learnMore": "Learn More",
+        "getStarted": "Get Started",
+        "connect": "Connect",
+        "order": "Order Now",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "save": "Save",
+        "close": "Close",
+        "next": "Next",
+        "previous": "Previous",
+        "viewAll": "View All"
+    },
+    "common": {
+        "perMonth": "/month",
+        "perYear": "/year",
+        "free": "Free",
+        "unlimited": "Unlimited",
+        "popular": "Popular",
+        "new": "New",
+        "recommended": "Recommended"
+    },
+    "days": {
+        "mon": "Mon",
+        "tue": "Tue",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sat": "Sat",
+        "sun": "Sun"
+    },
+    "tariffCard": {
+        "topOption": "TOP OPTION",
+        "perfectSolution": "Perfect solution for you",
+        "currency": "SO'M / MO",
+        "speed": "Speed",
+        "data": "Data",
+        "calls": "Calls",
+        "connect": "Connect"
+    },
+    "currency": "UZS",
+    "time": {
+        "justNow": "Just now",
+        "ago": "{{count}} min ago"
+    },
+    "errors": {
+        "fillAll": "Please fill in all fields"
+    }
+}

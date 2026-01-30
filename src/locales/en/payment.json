@@ -1,0 +1,23 @@
+{
+    "title": "Quick Payment",
+    "subtitle": "Top up your account securely and quickly",
+    "steps": {
+        "identity": "Identification",
+        "method": "Payment Method",
+        "finish": "Complete"
+    },
+    "form": {
+        "accountLabel": "ID or Phone",
+        "accountPlaceholder": "E.g.: 8841295",
+        "submit": "Continue",
+        "pay": "Proceed to Payment",
+        "amountLabel": "Payment Amount",
+        "customerInfo": "Customer Info",
+        "currentBalance": "Current Balance"
+    },
+    "success": {
+        "title": "Success!",
+        "message": "Payment completed successfully. {{amount}} UZS added to your account.",
+        "backToCabinet": "Back to Cabinet"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Панель администратора",
+    "stats": {
+        "totalUsers": "Всего клиентов",
+        "monthlyRevenue": "Ежемесячный доход",
+        "activePlans": "Активные тарифы",
+        "openTickets": "Открытые тикеты"
+    },
+    "menu": {
+        "dashboard": "Панель",
+        "customers": "Клиенты",
+        "plans": "Тарифы",
+        "payments": "Платежи",
+        "tickets": "Тикеты",
+        "settings": "Настройки"
+    },
+    "sections": {
+        "revenueAnalytics": "Аналитика доходов",
+        "networkLoad": "Нагрузка сети",
+        "liveTransactions": "Живые транзакции",
+        "serverStatus": "Статус серверов"
+    },
+    "table": {
+        "customer": "Клиент",
+        "type": "Тип",
+        "amount": "Сумма",
+        "time": "Время"
+    }
+}

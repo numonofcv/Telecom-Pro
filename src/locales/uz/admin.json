@@ -1,0 +1,29 @@
+{
+    "title": "Admin Panel",
+    "stats": {
+        "totalUsers": "Jami Mijozlar",
+        "monthlyRevenue": "Oylik Daromad",
+        "activePlans": "Aktiv Tariflar",
+        "openTickets": "Ochiq Tiketlar"
+    },
+    "menu": {
+        "dashboard": "Dashboard",
+        "customers": "Mijozlar",
+        "plans": "Tariflar",
+        "payments": "To'lovlar",
+        "tickets": "Tiketlar",
+        "settings": "Sozlamalar"
+    },
+    "sections": {
+        "revenueAnalytics": "Daromad Analitikasi",
+        "networkLoad": "Tarmoq Yuklamasi",
+        "liveTransactions": "Jonli Tranzaksiyalar",
+        "serverStatus": "Serverlar Holati"
+    },
+    "table": {
+        "customer": "Mijoz",
+        "type": "Turi",
+        "amount": "Summa",
+        "time": "Vaqt"
+    }
+}

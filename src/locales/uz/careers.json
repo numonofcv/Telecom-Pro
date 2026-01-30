@@ -1,0 +1,64 @@
+{
+    "hero": {
+        "title": "Kelajakni birgalikda",
+        "titleHighlight": "quramiz",
+        "subtitle": "Telecom Pro - bu shunchaki kompaniya emas, bu intellektual va innovatsion muhit. Biz bilan O'zbekistonning raqamli kelajagini yarating."
+    },
+    "benefits": {
+        "comfort": {
+            "title": "Comfort Zone",
+            "desc": "Zamonaviy ofis va bepul kofe/gazaklar."
+        },
+        "health": {
+            "title": "Health Insurance",
+            "desc": "Barcha xodimlar uchun tibbiy sug'urta."
+        },
+        "tech": {
+            "title": "Top Gear",
+            "desc": "Eng so'nggi modeldagi Apple/Dell texnikalari."
+        },
+        "growth": {
+            "title": "Growth",
+            "desc": "Xalqaro konferensiyalar va doimiy o'quv kurslari."
+        }
+    },
+    "jobs": {
+        "title": "Bo'sh ish o'rinlari",
+        "applyButton": "Ariza",
+        "list": [
+            {
+                "id": 1,
+                "title": "Frontend Developer (React)",
+                "location": "Toshkent",
+                "type": "Full-time",
+                "salary": "15-25M UZS"
+            },
+            {
+                "id": 2,
+                "title": "Network Engineer",
+                "location": "Samarqand",
+                "type": "Full-time",
+                "salary": "12-18M UZS"
+            },
+            {
+                "id": 3,
+                "title": "Call-center Operator",
+                "location": "Masofaviy",
+                "type": "Shift-based",
+                "salary": "4-7M UZS"
+            },
+            {
+                "id": 4,
+                "title": "DevOps Engineer",
+                "location": "Toshkent",
+                "type": "Full-time",
+                "salary": "20-35M UZS"
+            }
+        ]
+    },
+    "noMatch": {
+        "title": "Mos keladigan ish topmadingizmi?",
+        "desc": "Rezyumengizni bizga yuboring, biz sizga mos loyiha bo'lganda bog'lanamiz.",
+        "submitButton": "CV yuborish"
+    }
+}

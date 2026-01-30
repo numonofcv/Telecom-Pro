@@ -1,0 +1,117 @@
+{
+    "hero": {
+        "badge": "Next-Gen Connectivity",
+        "title": "Limitless",
+        "titleHighlight": "Digital",
+        "titleEnd": "Era",
+        "subtitle": "O'zbekistondagi eng innovatsion tarmoq. Milliy qadriyatlar va global texnologiyalar uyg'unligi.",
+        "startButton": "Boshlash",
+        "servicesButton": "Xizmatlar"
+    },
+    "features": {
+        "fast": {
+            "title": "Tezkor",
+            "desc": "500Mbps gacha tezlik"
+        },
+        "convenient": {
+            "title": "Qulay",
+            "desc": "Sizga mos tariflar"
+        },
+        "secure": {
+            "title": "Xavfsiz",
+            "desc": "99% ishonchlilik"
+        },
+        "support": {
+            "title": "24/7",
+            "desc": "Doimiy yordam"
+        }
+    },
+    "liveStatus": {
+        "title": "Live Network Status",
+        "latency": "Latency",
+        "uptime": "Uptime",
+        "throughput": "Throughput"
+    },
+    "partners": {
+        "title": "Bizning Hamkorlar"
+    },
+    "stats": {
+        "users": "Faol Abonentlar",
+        "coverage": "Hududiy Qamrov",
+        "reliability": "Ishonchlilik",
+        "support": "Ekspert Yordami"
+    },
+    "internet": {
+        "badge": "Connectivity Solutions",
+        "title": "Fiber Optik Internet",
+        "viewAll": "Barcha tariflar"
+    },
+    "combo": {
+        "badge": "Maksimal Foyda",
+        "title": "Combo - Barchasi",
+        "titleHighlight": "Yagona Narxda",
+        "lite": {
+            "title": "Lite Combo",
+            "service1": "100 Mbps Internet",
+            "service2": "120 TV Kanal",
+            "service3": "10GB Mobil Internet"
+        },
+        "ultra": {
+            "title": "Ultra Combo",
+            "service1": "500 Mbps Internet",
+            "service2": "200 TV Kanal",
+            "service3": "Cheksiz Mobil Aloqa"
+        },
+        "family": {
+            "title": "Family Combo",
+            "service1": "1000 Mbps Internet",
+            "service2": "Premium TV",
+            "service3": "3 ta SIM-karta"
+        },
+        "connectButton": "Ulanish",
+        "perMonth": "so'm/oy"
+    },
+    "loyalty": {
+        "title": "Sadoqat",
+        "titleHighlight": "Mukofotlari",
+        "subtitle": "Har bir to'lovdan keshbek to'plang va ularni yangi xizmatlarga yoki hamkorlarimiz do'konlarida sarflang.",
+        "cashback": "Cashback",
+        "proPoints": {
+            "title": "Pro Points",
+            "desc": "Ballar yig'ing."
+        },
+        "vipStatus": {
+            "title": "VIP Status",
+            "desc": "Eksklyuziv tariflar."
+        }
+    },
+    "mobileApp": {
+        "badge": "PRO ECOSYSTEM",
+        "title": "Smart",
+        "titleHighlight": "Management",
+        "subtitle": "Hisobni tekshirish, tariflarni o'zgartirish va xizmatlarni boshqarish endi yanada oson. Barcha Telecom Pro xizmatlari bitta ilovada.",
+        "googlePlay": "Google Play",
+        "appStore": "App Store",
+        "greeting": "Salom, Eagle!",
+        "balance": "Mening balansim"
+    },
+    "faq": {
+        "title": "Ko'p So'raladigan Savollar",
+        "q1": {
+            "question": "Qanday qilib ulanish mumkin?",
+            "answer": "Ofisimizga tashrif buyurishingiz yoki sayt orqali ariza qoldirishingiz mumkin. Operatorlarimiz siz bilan bog'lanishadi."
+        },
+        "q2": {
+            "question": "Internet tezligi qancha?",
+            "answer": "Bizning tariflarimizda 1000 Mbps gacha bo'lgan yuqori tezlikdagi internet mavjud."
+        },
+        "q3": {
+            "question": "Texnik yordam qay vaqt ishlaydi?",
+            "answer": "Bizning Call-markazimiz va texnik xodimlarimiz 24 soat davomida xizmat ko'rsatadi."
+        },
+        "q4": {
+            "question": "To'lov usullari qanday?",
+            "answer": "Click, Payme, Uzum Bank ilovalari va barcha bank kassalari orqali to'lov qilishingiz mumkin."
+        }
+    }
+}

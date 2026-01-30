@@ -1,0 +1,64 @@
+{
+    "id": "ID",
+    "balance": "Мой Баланс",
+    "currency": "сум",
+    "tabs": {
+        "main": "Главная",
+        "rewards": "Награды",
+        "messages": "Сообщения",
+        "payments": "Платежи",
+        "settings": "Настройки"
+    },
+    "activeTariff": "Активный Тариф",
+    "internet": "Интернет",
+    "expiry": "Срок действия",
+    "unlimited": "Безлимит 5G",
+    "stats": {
+        "title": "Статистика использования"
+    },
+    "recentActions": {
+        "title": "Последние действия",
+        "paymentThrough": "оплата через"
+    },
+    "notifications": {
+        "title": "Уведомления",
+        "welcome": {
+            "title": "Добро пожаловать!",
+            "message": "Добро пожаловать в семью Telecom Pro."
+        },
+        "paymentSuccess": {
+            "title": "Платеж успешен",
+            "message": "{{amount}} сум зачислено на ваш счет.",
+            "received": "{{amount}} сум успешно получено."
+        }
+    },
+    "services": {
+        "activeMobile": "Активный мобильный тариф",
+        "homeInternet": "Домашний интернет",
+        "extraProtection": "Дополнительная защита",
+        "active": "Активен",
+        "paused": "Приостановлен"
+    },
+    "rewards": {
+        "internet10gb": "10ГБ Интернета",
+        "tvSubscription": "Подписка Milliy TV",
+        "vipStatus": "VIP Статус",
+        "noRewards": "Наград пока нет!"
+    },
+    "settings": {
+        "profile": "Информация профиля",
+        "security": "Безопасность",
+        "notifications": "Уведомления",
+        "name": "Имя и Фамилия",
+        "email": "Электронная почта",
+        "phone": "Номер телефона",
+        "save": "Сохранить изменения",
+        "changePassword": "Изменить пароль",
+        "newPassword": "Новый пароль",
+        "confirmPassword": "Подтвердите пароль",
+        "photoRequirements": "Макс. 2МБ, PNG/JPG",
+        "pushNotifications": "Push-уведомления",
+        "emailMarketing": "Получать новости",
+        "success": "Настройки успешно сохранены!"
+    }
+}

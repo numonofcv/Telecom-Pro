@@ -1,0 +1,43 @@
+{
+    "title": "Check Coverage Area",
+    "subtitle": "Check the quality of connection at your location",
+    "search": {
+        "title": "Search Address",
+        "locateButton": "Locate Me",
+        "locating": "Locating...",
+        "or": "Or",
+        "placeholder": "Example: Tashkent, Chilanzar",
+        "checkButton": "Check",
+        "checking": "Checking..."
+    },
+    "result": {
+        "success": {
+            "title": "Available!",
+            "desc": "You can connect 1Gbps Fiber at your location."
+        },
+        "warning": {
+            "title": "Not yet available.",
+            "desc": "We will be at your location soon."
+        }
+    },
+    "legend": {
+        "title": "Map Legend",
+        "fiber": "Fiber Optic",
+        "fiveG": "5G Ultra",
+        "ready": "Ready",
+        "active": "Active"
+    },
+    "map": {
+        "title": "Interactive Map v2.0",
+        "liveUpdate": "Live Update"
+    },
+    "alerts": {
+        "geoNotSupported": "Geolocation is not supported.",
+        "geoFailed": "Could not determine your location.",
+        "youAreHere": "You are here"
+    },
+    "popups": {
+        "fiber": "Gigabit Fiber: Active",
+        "fiveG": "5G Ultra: Active"
+    }
+}

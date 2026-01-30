@@ -1,0 +1,22 @@
+{
+    "title": "Network Intelligence",
+    "subtitle": "Global tarmoqqa eng tezkor va ishonchli ulanish",
+    "networkIntelligence": "Tarmoq Intellekti",
+    "mbps": "Mbps",
+    "go": "GO",
+    "metrics": {
+        "ping": "Ping",
+        "jitter": "Jitter",
+        "download": "Download",
+        "upload": "Upload",
+        "result": "Natija"
+    },
+    "result": {
+        "title": "Ajoyib natija!",
+        "desc": "Sizning ulanishingiz yuqori sifatli video va o'yinlar uchun juda mos.",
+        "noRewards": "Hozircha mukofotlar mavjud emas",
+        "smartEcosystem": "Aqlli Ekotizim"
+    },
+    "retest": "Qayta tekshirish",
+    "server": "Server: Tashkent, UZ • "
+}

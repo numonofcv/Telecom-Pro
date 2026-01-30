@@ -1,0 +1,35 @@
+{
+    "title": "News and Blog",
+    "subtitle": "Latest changes in the world of Telecom Pro",
+    "readMore": "Read More",
+    "close": "Close",
+    "share": "Share",
+    "comments": "{{count}} Comments",
+    "by": "By Admin",
+    "posts": [
+        {
+            "id": 1,
+            "title": "Expanding 5G Network in Uzbekistan",
+            "excerpt": "Telecom Pro has doubled its 5G coverage in Tashkent and Samarkand.",
+            "content": "Telecom Pro recently announced its strategic plan. According to this plan, all regional centers of the country will be fully covered by the 5G network by the end of 2024. Currently, the coverage area in Tashkent and Samarkand has been significantly expanded, providing users with speeds up to a stable 1Gbps.",
+            "category": "Technology",
+            "date": "12 May, 2024"
+        },
+        {
+            "id": 2,
+            "title": "New 'Milliy Fiber' Tariffs Announced",
+            "excerpt": "Home internet speeds have now reached up to 1Gbps. Unlimited night traffic is provided as a bonus.",
+            "content": "Based on our customers' wishes, we have completely updated our home internet tariffs. The new tariffs in the 'Milliy Fiber' series provide not only high speeds but also completely unlimited internet traffic from 00:00 to 08:00. Also, a Wi-Fi 6 router is provided for free for new subscribers.",
+            "category": "News",
+            "date": "10 May, 2024"
+        },
+        {
+            "id": 3,
+            "title": "Cybersecurity: Protecting Your Data",
+            "excerpt": "5 important tips from Telecom Pro experts on using the internet safely.",
+            "content": "Personal data protection has become the most important issue in the digital world. 5 basic rules recommended by our experts: 1. Turn on two-factor authentication. 2. Use separate complex passwords for each service. 3. Do not enter suspicious links. 4. Constantly update device software. 5. Use VPN services with caution.",
+            "category": "Security",
+            "date": "05 May, 2024"
+        }
+    ]
+}

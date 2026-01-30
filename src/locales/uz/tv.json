@@ -1,0 +1,66 @@
+{
+    "hero": {
+        "badge": "PREMIUM CINEMA",
+        "quality": "4K ULTRA HD",
+        "title": "SPIDER-MAN",
+        "titleHighlight": "ACROSS THE",
+        "titleEnd": "VERSE",
+        "desc": "Maylz Morales butun olamlarni qutqarish uchun boshqa O'rgimchak-odamlar bilan kuch birlashtiradi. Mislsiz vizual effeklar va sarguzashtlar.",
+        "viewButton": "Ko'rish",
+        "listButton": "Ro'yxatga olish",
+        "watchNow": "Hoziroq ko'rish",
+        "moreInfo": "Batafsil ma'lumot",
+        "featureBadge": "HAFTALIK TANLOV"
+    },
+    "sections": {
+        "allChannels": "Barcha Kanallar",
+        "movies": "Filmlar va Seriallar",
+        "smartEcosystem": "Aqlli Ekotizim"
+    },
+    "multiPlatform": {
+        "title": "Ko'p platformali tajriba",
+        "desc": "Sevimli kontentingizni istalgan qurilmada tomosha qiling. Smart TV-da boshlang, yo'lda smartfonda davom eting va uyda planshetda yakunlang.",
+        "smartTv": "Smart TV",
+        "mobile": "Mobil",
+        "streaming": "Striming"
+    },
+    "channels": {
+        "title": "Jonli Kanallar",
+        "schedule": "Dasturlar jadvali",
+        "status": "LIVE",
+        "smartEcosystem": "Aqlli Ekotizim"
+    },
+    "categories": [
+        "Barchasi",
+        "Kinolar",
+        "Seriallar",
+        "Multfilmlar",
+        "Hujjatli"
+    ],
+    "movies": {
+        "rating": "Reyting",
+        "year": "Yil",
+        "duration": "Davomiyligi",
+        "genre": "Janr"
+    },
+    "ecosystem": {
+        "title": "Smart Ecosystem",
+        "subtitle": "Uyingiz",
+        "subtitleHighlight": "Aqlliroq",
+        "desc": "Xavfsizlik tizimi, aqlli yoritish va media markaz boshqaruvi bitta interfeysda.",
+        "features": [
+            {
+                "label": "Ultra HD Video Nazorat"
+            },
+            {
+                "label": "Avtomatlashgan Yoritish"
+            },
+            {
+                "label": "AI Xavfsizlik Datchiklari"
+            }
+        ]
+    },
+    "player": {
+        "preparing": "Ijro etishga tayyorlanmoqda..."
+    }
+}

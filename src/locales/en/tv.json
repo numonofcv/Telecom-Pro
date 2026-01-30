@@ -1,0 +1,66 @@
+{
+    "hero": {
+        "badge": "PREMIUM CINEMA",
+        "quality": "4K ULTRA HD",
+        "title": "SPIDER-MAN",
+        "titleHighlight": "ACROSS THE",
+        "titleEnd": "VERSE",
+        "desc": "Miles Morales joins forces with other Spider-People to save all universes. Unparalleled visual effects and adventures.",
+        "viewButton": "Watch Now",
+        "listButton": "Add to List",
+        "watchNow": "Watch Now",
+        "moreInfo": "More Info",
+        "featureBadge": "WEEKLY FEATURE"
+    },
+    "sections": {
+        "allChannels": "All Channels",
+        "movies": "Movies & Series",
+        "smartEcosystem": "Smart Ecosystem"
+    },
+    "multiPlatform": {
+        "title": "Multi-Platform Experience",
+        "desc": "Watch your favorite content on any device. Start on your Smart TV, continue on your smartphone while commuting, and finish on your tablet at home.",
+        "smartTv": "Smart TV",
+        "mobile": "Mobile",
+        "streaming": "Streaming"
+    },
+    "channels": {
+        "title": "Live Channels",
+        "schedule": "Program Schedule",
+        "status": "LIVE"
+    },
+    "categories": [
+        "All",
+        "Movies",
+        "Series",
+        "Cartoons",
+        "Documentary"
+    ],
+    "movies": {
+        "rating": "Rating",
+        "year": "Year",
+        "allChannels": "All Channels",
+        "movies": "Movies",
+        "smartEcosystem": "Smart Ecosystem"
+    },
+    "ecosystem": {
+        "title": "Smart Ecosystem",
+        "subtitle": "Your Home",
+        "subtitleHighlight": "Smarter",
+        "desc": "Security system, smart lighting, and media center control in one interface.",
+        "features": [
+            {
+                "label": "Ultra HD Video Monitoring"
+            },
+            {
+                "label": "Automated Lighting"
+            },
+            {
+                "label": "AI Security Sensors"
+            }
+        ]
+    },
+    "player": {
+        "preparing": "Preparing for playback..."
+    }
+}

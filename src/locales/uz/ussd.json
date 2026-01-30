@@ -1,0 +1,17 @@
+{
+    "title": "USSD Ma'lumotnomasi",
+    "subtitle": "Xizmatlarni boshqarish uchun kerakli barcha kodlar bir joyda.",
+    "categories": {
+        "main": "Asosiy",
+        "internet": "Internet",
+        "services": "Xizmatlar"
+    },
+    "codes": {
+        "checkBalance": "Asosiy balansni tekshirish",
+        "checkInternet": "Internet paketlar qoldig'ini tekshirish",
+        "checkBundles": "Daqiqalar va SMS qoldig'i",
+        "myNumber": "Mening raqamim va tarifim",
+        "enable4G": "4G LTE xizmatini yoqish",
+        "serviceMenu": "Xizmatlarni boshqarish menyusi"
+    }
+}
